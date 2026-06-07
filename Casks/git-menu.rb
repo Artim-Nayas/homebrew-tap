@@ -8,7 +8,7 @@ cask "git-menu" do
   desc "Menu-bar app for GitHub PRs, reviews, inbox and Actions, powered by the gh CLI"
   homepage "https://github.com/Artim-Nayas/git-menu"
 
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
   depends_on arch: :arm64
 
   app "Git Menu.app"
