@@ -1,6 +1,6 @@
 cask "git-menu" do
-  version "0.3.0"
-  sha256 "7480b385f1c7745500877ebdad35f940269af71c5e4a112805e0740b6d5fb657"
+  version "0.4.0"
+  sha256 "acc96d16938fd7b08ee82e3d09c26816066edfea1ef2c19966ab281700a09318"
 
   url "https://github.com/Artim-Nayas/git-menu/releases/download/v#{version}/Git-Menu-#{version}-arm64.dmg",
       verified: "github.com/Artim-Nayas/git-menu/"
